@@ -1,0 +1,31 @@
+_repo: '---_27023'
+_version: 0.1.0
+alternative_title: Bai Gui Zhi
+contributor:
+  other_contributor:
+    agent_name: Fu, Ling
+    gutenberg_agent_id: '32404'
+    url: http://www.gutenberg.org/2009/agents/32404
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cui, Xiangchuan, active 1836
+    alias: 崔象川
+    gutenberg_agent_id: '32405'
+    url: http://www.gutenberg.org/2009/agents/32405
+description: ''
+gutenberg_issued: '2008-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27023'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction'
+- !lcc 'PL'
+title: 白圭志
+url: http://www.gutenberg.org/ebooks/27023
